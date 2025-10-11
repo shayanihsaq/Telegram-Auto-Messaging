@@ -1,8 +1,8 @@
 # Telegram-Auto-Messaging
 TG tool mady in Python, fully working with many other functions. Easy to use for beginners.
 
-## GET TOOL HERE: https://shorturl.at/yxWGr
-Contact us for any inquiries: https://shorturl.at/ZJHUf
+## GET TOOL HERE: https://shorturl.at/GaWLW
+Contact us for any inquiries: https://shorturl.at/CLk29
 ### All functions:
 <img src='UI1.png' width='450'>
 
@@ -38,5 +38,5 @@ This tool serves multiple purposes:
 We continuously implement requested features!
 For any questions, don't hesitate to reach out.
 
-## GET TOOL HERE: https://shorturl.at/yxWGr
-Contact us for any inquiries: https://shorturl.at/ZJHUf
+## GET TOOL HERE: https://shorturl.at/GaWLW
+Contact us for any inquiries: https://shorturl.at/CLk29
